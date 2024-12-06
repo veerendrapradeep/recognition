@@ -23,7 +23,7 @@ This project uses face recognition to automate the attendance marking process. T
 
 3. Run the system:
     ```bash
-    python attendance_system.py
+    python main.py
     ```
 
 ## Requirements:
