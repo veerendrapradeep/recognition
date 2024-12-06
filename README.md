@@ -38,3 +38,9 @@ This project uses face recognition to automate the attendance marking process. T
 3. **Logs**: View logs of recognized faces with the timestamp.
 4. **Register New Student**: Add new students by capturing their faces.
 
+## ⭐️ Support the project
+
+If you like this project and find it useful, please consider giving it a star! ⭐️
+
+Your support helps to increase the visibility of the project and motivates me to continue improving it. Thank you! 🙏
+
